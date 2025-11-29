@@ -1,6 +1,6 @@
 <!-- Inicio -->
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Andrés Blanco</h1>
-<h3 align="center">Desarrollador junior y estudiante de ultimo semestre de ingeniría de sistemas</h3>
+<h3 align="align-left">Desarrollador junior y estudiante de ultimo semestre de ingeniría de sistemas</h3>
 
 
 <!-- Lenguajes de programación, Frameworks y Herramientas -->

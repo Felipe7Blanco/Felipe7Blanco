@@ -93,10 +93,20 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 <!-- Proyectos -->
 # Aquí algunos de mis proyectos realizados
 <h4> Api Colección de Arte</h4>
-<p aling="left">Este proyecto fue desarrollado en java spring boot, con el ide de desarrollo Intellij, cuenta con registro y autenticación de usuarios, la idea de este proyecto es brindar un sitio web donde los usuarios prodrán
-acceder a distintas pinturas y dibujos creadas por otros usuarios. Por el momento solo he desarrollado el backend y sigo trabajando en desarrollar un frontend interactivo y con buen aspecto.
-Puedes acces al código mediante el siguiente enlace:</p>
-<p hreft="https://github.com/Felipe7Blanco/ColeccionDeArte.git" target="_blank" rel="noreferrer"/>
+<p align="left">
+    Este proyecto fue desarrollado en Java Spring Boot, con el IDE de desarrollo IntelliJ. 
+    Cuenta con registro y autenticación de usuarios; la idea de este proyecto es brindar 
+    un sitio web donde los usuarios podrán acceder a distintas pinturas y dibujos creados 
+    por otros usuarios. Por el momento solo he desarrollado el backend y sigo trabajando 
+    en un frontend interactivo y con buen aspecto.  
+    Puedes acceder al código mediante el siguiente enlace:
+</p>
+
+<p>
+    <a href="https://github.com/Felipe7Blanco/ColeccionDeArte.git" target="_blank" rel="noreferrer">
+        Ver repositorio en GitHub
+    </a>
+</p>
 
 
 

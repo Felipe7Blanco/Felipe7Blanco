@@ -1,6 +1,31 @@
 <!-- Inicio -->
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Andrés Blanco</h1>
-<h3 align="align-left">Desarrollador junior y estudiante de ultimo semestre de ingeniría de sistemas</h3>
+<h3 align="align-left">Hola ¿Cómo estas? 
+Me presento, me llamo Andrés Felipe Blanco Vega, tengo 23 años soy de la ciudad de Tunja Boyacá donde actualmente resido.
+Soy recién egresado de la carrera ingeniería de sistemas, esperando a que llegue el día de mi grado, es este 19 de diciembre del presente año pues ya he cumplido con todos los requisitos necesarios para graduarme.
+Me gusta el desarrollo web, donde mi fuerte es el backend pero eso no significa que no me gusta el frontend, lo contrario me gusta más el frontend solo que he realizado más proyecto backend que frontend y se puede ver en mi repositorio de GitHub donde dominan proyectos backend.
+
+He realizado proyectos académicos y personales, empleando diversas tecnologías y herramientas de desarrollo como lo son: 
+	- Java
+	- Spring Boot
+	- NodeJS
+	- React
+	- TypeScript
+	- JavaScript
+	- Python
+	- HTML
+	- CSS
+	- PHP
+	- VS Code
+	- Netbeans
+	- Intellj
+	- MySQL
+	- PostgrestSQL
+	- Filezilla
+	- Xampp
+	- Godot
+	- Postman
+	- Y muchas más....</h3>
 
 
 <!-- Lenguajes de programación, Frameworks y Herramientas -->

@@ -92,6 +92,7 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 
 <!-- Proyectos -->
 # Aquí algunos de mis proyectos realizados
+<h3>BACKEND - API REST</h3>
 <h4> Api Colección de Arte</h4>
 <p align="left">
     Este proyecto fue desarrollado en Java Spring Boot, con el IDE de desarrollo IntelliJ. 
@@ -104,10 +105,55 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 
 <p>
     <a href="https://github.com/Felipe7Blanco/ColeccionDeArte.git" target="_blank" rel="noreferrer">
-        Ver repositorio en GitHub
+        Ver repositorio Coleccion de arte en GitHub.
     </a>
 </p>
 
+<h3>FRONTEND - PAGINA WEB</h3>
+<h4>WebEcoRide</h4>
+<p align="left">
+	El proyecto consta en una pagina web estatica para una empresa fictisia donde me plantee el reto de realizar
+	un portafolio donde se la organización de a conocer sus productos y servicios, ademas de mostrar a algunos de
+	sus colaboradores y casos de exito. Puedes acceder al código mediante el siguiente enlace:
+</p>
+<p>
+    <a href="https://github.com/Felipe7Blanco/WebEcoRide.git" target="_blank" rel="noreferrer">
+        Ver repositorio WebEcoRide en GitHub.
+    </a>
+</p>
+
+<h3>FULLSTACk - CRUD BASICO GESTOR DE USUARIOS</h3>
+<p align="left">
+	Desarrolle este proyecto con PHP 8, Html, Css, JavaScript y Bootstrap como prueba técnica para una vacante
+	de programado de software, donde pude hablar con el equipo de recursos humanos y un desarrollador Senior, 
+	les gusto mi proyecto pero aún estaba en 9 semestre y la vacante implicaba trabajar de forma presencial así
+	que optaron por otro cantidato. Enlace al repositorio:
+</p>
+<p>
+	<a href="https://github.com/Felipe7Blanco/crud_users.git" target="_blank" rel="noreferrer">
+		Ver repositorio Crud usuarios.
+	</a>
+</p>
+
+<h3>BOYACA MITICA - Videojuego conservación de nuestra cultura</h3>
+<p align="left">
+	Este videojuego lo desarrolle usando Godot, un motor de videjuegos de codigo abierto y gratuito,
+	ultimamente ha tenido varias actualizaciones que lo han hecho una opción bastante atractiva para
+	desarrolladores independiente, pues su curva de aprendizaje es moderara, soporta programación en
+	c++ y c#, además cuenta con su lenguaje nativo: GDScript bastante similar a Python y JavaScript.
+	Boyacá Mítica ya esta disponible para su descarga gratuita, para este proyecto emplee herramientas y 
+	recursos gratuitos, puedes acceder a el mediante el siguiente link: 
+</p>
+<p>
+	<a href="https://www.mediafire.com/file/z1ptnmbxydmg7g7/Demo_Boyac%25C3%25A1_Mit%25C3%25ADca_v1.0.exe/file" target="_blank" rel="noreferrer">
+		Descarga la demo de Boyacá Mítica.
+	</a>
+</p>
+<p >
+	<a href="https://www.youtube.com/watch?v=wPrEEX3v1cg" target="_blank" rel="noreferrer">
+		Mira la demostración de Boyacá Mítica en Youtube.
+	</a>
+</p>
 
 
 <!-- Social links -->

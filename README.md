@@ -112,9 +112,9 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 <h3>FRONTEND - PAGINA WEB</h3>
 <h4>WebEcoRide</h4>
 <p align="left">
-	El proyecto consta en una pagina web estatica para una empresa fictisia donde me plantee el reto de realizar
-	un portafolio donde se la organización de a conocer sus productos y servicios, ademas de mostrar a algunos de
-	sus colaboradores y casos de exito. Puedes acceder al código mediante el siguiente enlace:
+	El proyecto consta en una pagina web estatica para una empresa ficticia donde la organización da 
+	a conocer sus productos y servicios, ademas de presentar a su equipo de trabjo y casos de exito. 
+	Puedes acceder al código mediante el siguiente enlace:
 </p>
 <p>
     <a href="https://github.com/Felipe7Blanco/WebEcoRide.git" target="_blank" rel="noreferrer">

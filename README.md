@@ -96,7 +96,7 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 <h4> Api Colección de Arte</h4>
 <p align="left">
     Este proyecto fue desarrollado en Java Spring Boot, con el IDE de desarrollo IntelliJ. 
-    Cuenta con registro y autenticación de usuarios; la idea de este proyecto es brindar 
+    Cuenta con registro y inicio de sesión con autenticación de usuarios, la idea de este proyecto es brindar 
     un sitio web donde los usuarios podrán acceder a distintas pinturas y dibujos creados 
     por otros usuarios. Por el momento solo he desarrollado el backend y sigo trabajando 
     en un frontend interactivo y con buen aspecto.  

@@ -27,7 +27,6 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 	- Postman
 	- Y muchas más....</h3>
 
-
 <!-- Lenguajes de programación, Frameworks y Herramientas -->
 ## 🚀 Tecnologías y Herramientas
 
@@ -97,7 +96,7 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 <p aling="left">Este proyecto fue desarrollado en java spring boot, con el ide de desarrollo Intellij, cuenta con registro y autenticación de usuarios, la idea de este proyecto es brindar un sitio web donde los usuarios prodrán
 acceder a distintas pinturas y dibujos creadas por otros usuarios. Por el momento solo he desarrollado el backend y sigo trabajando en desarrollar un frontend interactivo y con buen aspecto.
 Puedes acces al código mediante el siguiente enlace:</p>
-<a hreft="https://github.com/Felipe7Blanco/ColeccionDeArte.git" target="_blank" rel="noreferrer"/>
+<p hreft="https://github.com/Felipe7Blanco/ColeccionDeArte.git" target="_blank" rel="noreferrer"/>
 
 
 

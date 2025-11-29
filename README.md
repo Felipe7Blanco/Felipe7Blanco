@@ -1,6 +1,6 @@
 <!-- Inicio -->
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Andrés Blanco</h1>
-<h3 align="align-left">Hola ¿Cómo estas? 
+<h3 align="align-left">Hola ¿Cómo estas?. 
 Me presento, me llamo Andrés Felipe Blanco Vega, tengo 23 años soy de la ciudad de Tunja Boyacá donde actualmente resido.
 Soy recién egresado de la carrera ingeniería de sistemas, esperando a que llegue el día de mi grado, es este 19 de diciembre del presente año pues ya he cumplido con todos los requisitos necesarios para graduarme.
 Me gusta el desarrollo web, donde mi fuerte es el backend pero eso no significa que no me gusta el frontend, lo contrario me gusta más el frontend solo que he realizado más proyecto backend que frontend y se puede ver en mi repositorio de GitHub donde dominan proyectos backend.
@@ -29,7 +29,7 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 
 
 <!-- Lenguajes de programación, Frameworks y Herramientas -->
-# 🚀 Tecnologías y Herramientas
+## 🚀 Tecnologías y Herramientas
 
 ### 🖥️ Lenguajes de Programación
 <p align="left">
@@ -90,6 +90,16 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
+
+<!-- Proyectos -->
+# Aquí algunos de mis proyectos realizados
+<h4> Api Colección de Arte</h4>
+<p aling="left">Este proyecto fue desarrollado en java spring boot, con el ide de desarrollo Intellij, cuenta con registro y autenticación de usuarios, la idea de este proyecto es brindar un sitio web donde los usuarios prodrán
+acceder a distintas pinturas y dibujos creadas por otros usuarios. Por el momento solo he desarrollado el backend y sigo trabajando en desarrollar un frontend interactivo y con buen aspecto.
+Puedes acces al código mediante el siguiente enlace:</p>
+<a hreft="https://github.com/Felipe7Blanco/ColeccionDeArte.git" target="_blank" rel="noreferrer"/>
+
+
 
 <!-- Social links -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Conéctate conmigo

@@ -1,5 +1,5 @@
 <!-- Inicio -->
-<h1 align="center">Bienvenido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, a mi repositorio de Github</h1>
+<h1 align="center">Bienvenido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">a mi repositorio de Github</h1>
 <h3 align="align-left">Hola ¿Cómo estas?. 
 Me presento, me llamo Andrés Felipe Blanco Vega, tengo 23 años soy de la ciudad de Tunja Boyacá donde actualmente resido.
 Soy recién egresado de la carrera ingeniería de sistemas, esperando a que llegue el día de mi grado, es este 19 de diciembre del presente año pues ya he cumplido con todos los requisitos necesarios para graduarme.

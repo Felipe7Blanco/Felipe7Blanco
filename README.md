@@ -154,7 +154,25 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 		Mira la demostración de Boyacá Mítica en Youtube.
 	</a>
 </p>
+<!-- JavaScript/TypeScript -->
+<h3 align="center"> PowerGym Backend - API NODE.JS</h3>
+<p align="left">
+	Backend realizado en Node.JS, typescript, jwt, sha-512.
+	Este proyecto es el motor backedn para una plataforma integral de gimnasios modernos, realiza operaciones crud para productos, roles, usuarios, membresias y generación de facturas.  Control de membresías, accesos y roles, atutenticación segura con JWT + Bycript y SHA-512, registro y atenticación de usuarios (clientes y administradores)
+</p>
+<a href="https://github.com/Felipe7Blanco/BackendPowerGym.git">
+	Mira el repositorio de PowerGym Backend dando click aquí
+</a>
 
+<h3 align="center"> PowerGym Frontend - REACT FRONTEND</h3>
+<p align="left">
+	Este proyecto es la interfaz web que le da vida al backend de gestión de gimnasios, PowerGym
+	Frontend permite: Registro y login de usuarios, dashboard principal, crud de productos y membresías,
+	autenticación con JWT, validación en tiempo real,
+</p>
+<a href="https://github.com/Felipe7Blanco/Frontend---PowerGym.git">
+	Mira el repositorio de PowerGym Frontend dando click aquí
+</a>
 
 <!-- Social links -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Conéctate conmigo

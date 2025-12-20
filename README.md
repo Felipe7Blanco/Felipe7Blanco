@@ -2,8 +2,8 @@
 <h1 align="center">Bienvenido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">a mi repositorio de Github</h1>
 <h3 align="align-left">Hola ¿Cómo estas?. 
 Me presento, me llamo Andrés Felipe Blanco Vega, tengo 23 años soy de la ciudad de Tunja Boyacá donde actualmente resido.
-Soy recién egresado de la carrera ingeniería de sistemas, esperando a que llegue el día de mi grado, es este 19 de diciembre del presente año pues ya he cumplido con todos los requisitos necesarios para graduarme.
-Me gusta el desarrollo web, donde mi fuerte es el backend pero eso no significa que no me gusta el frontend, lo contrario me gusta más el frontend solo que he realizado más proyecto backend que frontend y se puede ver en mi repositorio de GitHub donde dominan proyectos backend.
+Soy recién egresado de la carrera ingeniería de sistemas, y estoy en busca de empleo donde pueda aportar mis habilidades y conocimientos a mi proximo equipo de trabajo.
+
 
 He realizado proyectos académicos y personales, empleando diversas tecnologías y herramientas de desarrollo como lo son: 
 	- Java
@@ -109,7 +109,7 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
     </a>
 </p>
 
-<h3>FRONTEND - PAGINA WEB</h3>
+<h3 align="center">FRONTEND - PAGINA WEB</h3>
 <h4>WebEcoRide</h4>
 <p align="left">
 	El proyecto consta en una pagina web estatica para una empresa ficticia donde la organización da 
@@ -135,7 +135,7 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 	</a>
 </p>
 
-<h3>BOYACA MITICA - Videojuego conservación de nuestra cultura</h3>
+<h3 align="center">BOYACA MITICA - Videojuego conservación de nuestra cultura</h3>
 <p align="left">
 	Este videojuego lo desarrolle usando Godot, un motor de videjuegos de codigo abierto y gratuito,
 	ultimamente ha tenido varias actualizaciones que lo han hecho una opción bastante atractiva para
@@ -172,6 +172,15 @@ He realizado proyectos académicos y personales, empleando diversas tecnologías
 </p>
 <a href="https://github.com/Felipe7Blanco/Frontend---PowerGym.git">
 	Mira el repositorio de PowerGym Frontend dando click aquí
+</a>
+
+<h3 align="center"> DermaPlus Frontend (Landing page) - REACT + NEXTJS + CHAKRA UI FRONTEND</h3>
+<p align="left">
+	Proyecto realizado como prueba técnica para una empresa, donde se me da el proyecto de una clinica dermatologica que requiere una landing page para promocionar sus servicios, adicional se solicita un dashboard para
+	visualizar las estadisticas del negocio. 
+</p>
+<a href="https://github.com/Felipe7Blanco/DermaPlus">
+	Mira el repositorio de DermaPlus Frontend dando click aquí
 </a>
 
 <!-- Social links -->

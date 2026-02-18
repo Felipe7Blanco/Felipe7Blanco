@@ -45,17 +45,12 @@ Soy un **Ingeniero de Sistemas** apasionado por la construcción de software esc
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felipe7Blanco&show_icons=true&theme=tokyonight" alt="Andres Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe7Blanco&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
 
 ---
 
 ## 📫 Conéctate conmigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/andr%C3%A9s-blanco-366021367/" target="_blank">
+  <a href="https://www.linkedin.com/in/aandres-blanco-366021367/" target="_blank">
     <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://wa.me/573228373827" target="_blank">
